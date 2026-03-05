@@ -1,6 +1,5 @@
-# unifaat2026-dw-02-node-tipos-primitivos-escopo-lexico
+# Unifaat 2026 — Desenvolvimento Web
 
-Unifaat 2026 — Desenvolvimento Web (DW)  
 Aula 02 — Node.js: Tipos primitivos, escopo léxico e imutabilidade  
 Exemplos práticos para rodar no terminal com `node`.
 
